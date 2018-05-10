@@ -1,0 +1,75 @@
+[2018-05-05 14:00:40.389] [TRACE] log_file - This is a Log
+[2018-05-05 14:00:40.390] [DEBUG] log_file - We Write Logs with log4js
+
+[2018-05-06 01:51:06.734] [INFO] log_file - 22774041 登录成功
+[2018-05-07 16:00:28.684] [INFO] log_file - log_file 登录成功
+[2018-05-07 16:28:54.205] [INFO] log_file - WoT Social Authentication Proxy started on port: 5050
+[2018-05-07 16:29:26.118] [INFO] log_file - 22774041 登录成功
+[2018-05-07 16:30:15.061] [INFO] log_file - WoT Social Authentication Proxy started on port: 5050
+[2018-05-07 16:30:27.001] [INFO] log_file - 22774041 登录成功
+[2018-05-07 16:31:43.283] [INFO] log_file - 22774041 登录成功
+[2018-05-10 00:05:04.681] [INFO] log_file - WoT Social Authentication Proxy started on port: 5050
+[2018-05-10 00:10:56.772] [INFO] log_file - WoT Social Authentication Proxy started on port: 5050
+[2018-05-10 00:10:57.777] [ERROR] log_file - connect to redis error, check your redis config { Error: connect ECONNREFUSED 127.0.0.1:6379
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)
+  code: 'ECONNREFUSED',
+  errno: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-05-10 00:11:28.937] [INFO] log_file - WoT Social Authentication Proxy started on port: 5050
+[2018-05-10 00:11:29.941] [ERROR] log_file - connect to redis error, check your redis config { Error: connect ECONNREFUSED 127.0.0.1:6379
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1086:14)
+  code: 'ECONNREFUSED',
+  errno: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-05-10 00:21:42.317] [INFO] log_file - WoT Social Authentication Proxy started on port: 5050
+[2018-05-10 00:23:48.001] [INFO] log_file - WoT Social Authentication Proxy started on port: 5050
+[2018-05-10 00:27:17.526] [INFO] log_file - WoT Social Authentication Proxy started on port: 5050
+[2018-05-10 00:27:20.903] [INFO] log_file - WoT Social Authentication Proxy started on port: 5050
+[2018-05-10 00:27:50.168] [INFO] log_file - WoT Social Authentication Proxy started on port: 5050
+[2018-05-10 00:28:52.810] [INFO] log_file - WoT Social Authentication Proxy started on port: 5050
+[2018-05-10 00:31:47.870] [INFO] log_file - WoT Social Authentication Proxy started on port: 5050
+[2018-05-10 00:34:09.434] [INFO] log_file - WoT Social Authentication Proxy started on port: 5050
+[2018-05-10 00:34:17.599] [DEBUG] log_file - Cache set 20180510^_^@T_Tperipperday^_^@T_Tlogin^_^@T_T::1 undefined
+[2018-05-10 00:34:21.164] [INFO] log_file - 22774041 登录成功
+[2018-05-10 00:34:25.822] [DEBUG] log_file - Cache get 20180510^_^@T_Tperipperday^_^@T_Tlogin^_^@T_T::1 undefined
+[2018-05-10 00:34:25.822] [DEBUG] log_file - Cache set 20180510^_^@T_Tperipperday^_^@T_Tlogin^_^@T_T::1 undefined
+[2018-05-10 00:34:29.248] [INFO] log_file - 22774041 登录成功
+[2018-05-10 00:34:54.804] [DEBUG] log_file - Cache get 20180510^_^@T_Tperipperday^_^@T_Tlogin^_^@T_T::1 undefined
+[2018-05-10 00:34:54.805] [DEBUG] log_file - Cache set 20180510^_^@T_Tperipperday^_^@T_Tlogin^_^@T_T::1 undefined
+[2018-05-10 00:34:58.243] [INFO] log_file - 22774041 登录成功
+[2018-05-10 00:35:00.147] [DEBUG] log_file - Cache get 20180510^_^@T_Tperipperday^_^@T_Tlogin^_^@T_T::1 undefined
+[2018-05-10 00:35:00.147] [DEBUG] log_file - Cache set 20180510^_^@T_Tperipperday^_^@T_Tlogin^_^@T_T::1 undefined
+[2018-05-10 00:35:03.117] [INFO] log_file - 22774041 登录成功
+[2018-05-10 00:35:04.530] [DEBUG] log_file - Cache get 20180510^_^@T_Tperipperday^_^@T_Tlogin^_^@T_T::1 undefined
+[2018-05-10 00:35:04.530] [DEBUG] log_file - Cache set 20180510^_^@T_Tperipperday^_^@T_Tlogin^_^@T_T::1 undefined
+[2018-05-10 00:35:07.503] [INFO] log_file - 22774041 登录成功
+[2018-05-10 00:35:09.431] [DEBUG] log_file - Cache get 20180510^_^@T_Tperipperday^_^@T_Tlogin^_^@T_T::1 undefined
+[2018-05-10 00:38:59.497] [INFO] log_file - WoT Social Authentication Proxy started on port: 5050
+[2018-05-10 00:39:34.952] [DEBUG] log_file - Cache get 20180510^_^@T_Tperipperday^_^@T_Tlogin^_^@T_T::1 undefined
+[2018-05-10 00:39:48.018] [INFO] log_file - WoT Social Authentication Proxy started on port: 5050
+[2018-05-10 00:39:55.955] [DEBUG] log_file - Cache get 20180510^_^@T_Tperipperday^_^@T_Tlogin^_^@T_T::1 undefined
+[2018-05-10 00:40:16.101] [INFO] log_file - WoT Social Authentication Proxy started on port: 5050
+[2018-05-10 00:40:21.691] [DEBUG] log_file - Cache get 20180510^_^@T_Tperipperday^_^@T_Tlogin^_^@T_T::1 undefined
+[2018-05-10 00:40:21.692] [DEBUG] log_file - Cache set 20180510^_^@T_Tperipperday^_^@T_Tlogin^_^@T_T::1 undefined
+[2018-05-10 00:40:41.244] [INFO] log_file - 22774041 登录成功
+[2018-05-10 00:41:29.024] [INFO] log_file - WoT Social Authentication Proxy started on port: 5050
+[2018-05-10 00:41:41.347] [DEBUG] log_file - Cache get 20180510^_^@T_Tperipperday^_^@T_Tlogin^_^@T_T::1 undefined
+[2018-05-10 00:41:41.348] [DEBUG] log_file - Cache set 20180510^_^@T_Tperipperday^_^@T_Tlogin^_^@T_T::1 undefined
+[2018-05-10 00:41:44.573] [INFO] log_file - 22774041 登录成功
+[2018-05-10 00:42:05.127] [DEBUG] log_file - Cache get 20180510^_^@T_Tperipperday^_^@T_Tlogin^_^@T_T::1 undefined
+[2018-05-10 00:42:05.127] [DEBUG] log_file - Cache set 20180510^_^@T_Tperipperday^_^@T_Tlogin^_^@T_T::1 undefined
+[2018-05-10 00:42:22.486] [INFO] log_file - 22774041 登录成功
+[2018-05-10 00:43:18.089] [INFO] log_file - WoT Social Authentication Proxy started on port: 5050
+[2018-05-10 00:43:34.476] [DEBUG] log_file - Cache get 20180510^_^@T_Tperipperday^_^@T_Tlogin^_^@T_T::1 undefined
+[2018-05-10 00:43:34.477] [DEBUG] log_file - Cache set 20180510^_^@T_Tperipperday^_^@T_Tlogin^_^@T_T::1 undefined
+[2018-05-10 02:01:46.052] [ERROR] log_file - connect to redis error, check your redis config { Error: read ECONNRESET
+    at exports._errnoException (util.js:1018:11)
+    at TCP.onread (net.js:568:26) code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' }

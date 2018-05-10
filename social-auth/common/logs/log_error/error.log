@@ -1,0 +1,8 @@
+[2018-05-05 11:38:43.993] [ERROR] log_error - In This Test log-dir is : './logs/log_test/'
+[2018-05-05 14:00:40.391] [ERROR] log_error - In This  log-dir is : './logs/log_error/'
+[2018-05-05 14:02:51.776] [WARN] log_error - log_error 登录异常
+[2018-05-05 14:02:51.776] [ERROR] log_error - log_error 验证异常
+[2018-05-05 15:38:55.324] [WARN] log_error - log_error 登录异常
+[2018-05-05 15:38:55.324] [ERROR] log_error - log_error 验证异常
+[2018-05-07 16:00:28.684] [WARN] log_error - log_error 登录异常
+[2018-05-07 16:00:28.684] [ERROR] log_error - log_error 验证异常

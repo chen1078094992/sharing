@@ -1,0 +1,49 @@
+{
+  "protected": [
+    {
+      "uid": "github:22774041",
+      "resources": [
+        "/properties", "/properties/temperature", "/properties/humidity", "/properties/pir", "/leds/1", "/leds/2", "/actions/ledState"
+      ]
+    },
+    {
+      "uid": "github:22774041",
+      "resources": [
+        "/properties", "/properties/temperature", "/properties/humidity", "/properties/pir", "/leds/1", "/leds/2", "/actions/ledState"
+      ]
+    },
+    {
+      "uid": "github:22774041",
+      "resources": [
+        "/properties", "/properties/temperature", "/properties/humidity", "/properties/pir", "/leds/1", "/leds/2", "/actions/ledState"
+      ]
+    },
+    {
+      "uid": "github:22774041",
+      "resources": [
+        "/properties", "/properties/temperature", "/properties/humidity", "/properties/pir", "/leds/1", "/leds/2", "/actions/ledState"
+      ]
+    }
+  ],
+  "open": [
+    "/", "/model", "/account", "/login", "/logout", "/auth/github", "/auth/github/callback"
+  ],
+  "things": [
+    {
+      "id": "WoTPi",
+      "url": "https://127.0.0.1:8484",
+      "token": "cKXRTaRylYWQiF3MICaKndG4WJMcVLFz"
+
+    }
+  ],
+  "config": {
+    "sourcePort" : 5050,
+    "AppID" :"986b889aea287915aec3",
+    "AppSecret" : "cdfdfd4c8ed2ff74c3416d24219b0d970cbe269b",
+    "redis_host" : "127.0.0.1",
+    "redis_port": 6379,
+    "redis_db": 0,
+    "redis_password":""
+
+  }
+}
